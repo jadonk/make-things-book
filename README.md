@@ -14,6 +14,10 @@
 * How To Ask Questions The Smart Way
 * [Getting Started with TRS-80 Basic](https://archive.org/details/Getting_Started_with_TRS-80_Basic_1981_Tandy/mode/2up)
 
+## Inspiration Tech
+* OLPC
+* Jupyter notebooks
+
 ## Outline
 * Forward - my history and story
 * 
