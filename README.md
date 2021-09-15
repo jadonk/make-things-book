@@ -20,7 +20,7 @@
 
 ## Outline
 * Forward - my history and story
-* Definitions of science, engineering, philosophy and political economics
+* Definitions of mathematics, science, engineering, technology, philosophy, and political economics
 * History of mathematics, mechanics, and computer science
 * Projects to reproduce revolutions in science or deliver empowerment
 
