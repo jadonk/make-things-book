@@ -14,3 +14,18 @@ revolutions represent genies that never fully went back in the bottle.
 * Newton's laws
 * Maxwell's equations
 * Kirchoff's current laws
+
+# Individual figures in history
+I would like to somewhat separate figures from revolutions in thought. I'd like to introduce people as an inspiration, but also down-play
+their individual roles to some extent based on how views of history often miscredit individuals and ignore simultaneous developments
+in other parts of the world. The key take-aways from the people-in-history segments should include:
+* A single individual can introduce a powerful thought.
+* You could be that individual.
+* Incremental thoughts slowly introduce challenges that result in break-throughs.
+
+## Some key figures
+
+* Al-Khwarizmi
+* Gottfried Wilhelm Leibniz
+* Newton
+* Daphne Oram
