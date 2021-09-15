@@ -32,5 +32,6 @@ to not overemphasize any given culture.
 * Gottfried Wilhelm Leibniz
 * Newton
 * Adam Smith, John Ruskin and Mahatma Gandhi
+* Ada Lovelace
 * Tesla
 * Daphne Oram
