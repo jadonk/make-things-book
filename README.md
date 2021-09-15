@@ -37,7 +37,7 @@ indicate the theme can be used to carry forward a line of thought, interjecting 
 - [ ] Parallel and series circuits - perhaps building a game to test your understanding
 - [ ] Build a robot (right angles, motors)
 - [ ] Build a weather station (sensing)
-- [ ] Build a musical instrument
+- [ ] Build a musical instrument (amplification?)
 
 ## Style
 * Jumping around should be OK
