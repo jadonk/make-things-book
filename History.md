@@ -23,9 +23,13 @@ in other parts of the world. The key take-aways from the people-in-history segme
 * You could be that individual.
 * Incremental thoughts slowly introduce challenges that result in break-throughs.
 
-## Some key figures
+I think, perhaps, including some critical relationships, either contemporary or inspiration, could be instructive. I need to be careful
+to not overemphasize any given culture.
 
+## Some key figures and relationships
+* Socrates and Plato
 * Al-Khwarizmi
 * Gottfried Wilhelm Leibniz
 * Newton
+* Adam Smith, John Ruskin and Mahatma Gandhi
 * Daphne Oram
