@@ -16,18 +16,27 @@
 
 ## Inspiration Tech
 * OLPC
-* Jupyter notebooks
+* Jupyter notebooks (with Julia)
 
 ## Outline
+
+I'll need to spend some time working out the right content, but there should be multiple running threads of interest that
+come together in the projects. As I'm thinking this out, I'm realizing these elements can be somewhat written separately,
+as if following this outline, but need to be presented in parallel. Multiple readings of the book can help fill in the
+details missed, as the primary goal is to make things understandable and interesting, rather than rigorus. Cute boxes that
+indicate the theme can be used to carry forward a line of thought, interjecting them where they apply to the projects.
+
 * Forward - my history and story
-* Definitions of mathematics, science, engineering, technology, philosophy, and political economics
-* History of mathematics, mechanics, and computer science
-* Projects to reproduce revolutions in science or deliver empowerment
+* Definitions key schools of thought
+* History of applied schools of thought mathematics, mechanics, and computer science
+* Projects to reproduce revolutions in science and deliver empowerment
+* Applications of key concepts of defined schools of thought
 
 ## Content
-- [ ] Parallel and series circuits
-- [ ] Build a robot
-- [ ] Build a weather station
+- [ ] Build something with right angles
+- [ ] Parallel and series circuits - perhaps building a game to test your understanding
+- [ ] Build a robot (right angles, motors)
+- [ ] Build a weather station (sensing)
 - [ ] Build a musical instrument
 
 ## Style
