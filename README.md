@@ -1,12 +1,30 @@
 # How to Make Things: Kid Steps to Controlling Technology
 
+## Motivation
+I need a place to put down critical lessons I want to convey and some constraint on how they should be communicated. This
+will be an ad hoc process with no target timeframe and will start being sourced in sincerity when I can see a cohesive
+thread that provides a series of lessons and exercises that enable anyone to feel empowered by technology, and not
+subjugated by it.
+
+As I think about it more, I feel that social media and AI will need to be included extensivly to combat technologies that
+are likely to have an initial adverse impact on the world. However, my starting point will be what it takes to build a
+real intuition about computer science with many jumping off points, but getting as quickly as possible to something that
+feels empowering and like it is understood well enough to freely either move forward to building on top of it or move further
+into the details of how it works.
+
+Figuring out the right abstractions will be critical.
+
+Thinking about accessibility, in terms of each financial, physical, and social barriers, need to be throughly considered
+throughout. A message about how mastering this information can help overcome those barriers should be repeated. Control,
+as used in the title, is about accesibility, accountability, empowerment, ownership, and more.
+
 ## Inspiration Books
 * [Getting Started with TRS-80 Basic](https://archive.org/details/Getting_Started_with_TRS-80_Basic_1981_Tandy/mode/2up)
 * Bad to the Bone: Crafting Electronics Systems with BeagleBone and BeagleBone Black
 * BeagleBone Cookbook
 * Exploring BeagleBone: Tools and Techniques for Building with Embedded Linux
 * Getting Started in Electronics
-* People Powered
+* People Powered by Jono Bacon
 * Zero to Maker: Learn (Just Enough) to Make (Just About) Anything
 * The Crafty Kids Guide to DIY Electronics: 20 Fun Projects for Makers, Crafters, and Everyone in Between
 * Here Comes Everybody
