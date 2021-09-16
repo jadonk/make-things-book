@@ -1,6 +1,7 @@
 # How to Make Things: Kid Steps to Controlling Technology
 
 ## Inspiration Books
+* [Getting Started with TRS-80 Basic](https://archive.org/details/Getting_Started_with_TRS-80_Basic_1981_Tandy/mode/2up)
 * Bad to the Bone: Crafting Electronics Systems with BeagleBone and BeagleBone Black
 * BeagleBone Cookbook
 * Exploring BeagleBone: Tools and Techniques for Building with Embedded Linux
@@ -12,7 +13,6 @@
 * The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 * Peer-To-Peer: Harnessing the Power of Disruptive Technologies
 * How To Ask Questions The Smart Way
-* [Getting Started with TRS-80 Basic](https://archive.org/details/Getting_Started_with_TRS-80_Basic_1981_Tandy/mode/2up)
 
 ## Inspiration Tech
 * OLPC
