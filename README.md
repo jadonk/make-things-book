@@ -18,6 +18,10 @@ Thinking about accessibility, in terms of each financial, physical, and social b
 throughout. A message about how mastering this information can help overcome those barriers should be repeated. Control,
 as used in the title, is about accesibility, accountability, empowerment, ownership, and more.
 
+## Audience
+Using the phrase "kid steps" is intentional to imply this is for children, but this is also intended for anyone looking for
+a step-by-step guide to what concepts to master to control technology in their lives.
+
 ## Inspiration Books
 * [Getting Started with TRS-80 Basic](https://archive.org/details/Getting_Started_with_TRS-80_Basic_1981_Tandy/mode/2up)
 * Bad to the Bone: Crafting Electronics Systems with BeagleBone and BeagleBone Black
