@@ -32,7 +32,7 @@ a step-by-step guide to what concepts to master to control technology in their l
 * Bad to the Bone: Crafting Electronics Systems with BeagleBone and BeagleBone Black
 * BeagleBone Cookbook
 * Exploring BeagleBone: Tools and Techniques for Building with Embedded Linux
-* Getting Started in Electronics
+* [Getting Started in Electronics](http://www.forrestmims.com/)
 * People Powered by Jono Bacon
 * Zero to Maker: Learn (Just Enough) to Make (Just About) Anything
 * The Crafty Kids Guide to DIY Electronics: 20 Fun Projects for Makers, Crafters, and Everyone in Between
