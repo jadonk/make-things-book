@@ -18,6 +18,11 @@ Thinking about accessibility, in terms of each financial, physical, and social b
 throughout. A message about how mastering this information can help overcome those barriers should be repeated. Control,
 as used in the title, is about accesibility, accountability, empowerment, ownership, and more.
 
+One of the most empowering concepts to share is that you need not individual control over technology in your life alone. There
+are various communities of people who, given the right abstractions and communication, will help you solve all sorts of aspects
+of your challenges. The goal of this book has to be to create a community of life-long learners looking to bring people
+into the world of defining the future of technology.
+
 ## Audience
 Using the phrase "kid steps" is intentional to imply this is for children, but this is also intended for anyone looking for
 a step-by-step guide to what concepts to master to control technology in their lives.
@@ -39,6 +44,7 @@ a step-by-step guide to what concepts to master to control technology in their l
 ## Inspiration Tech
 * OLPC
 * Jupyter notebooks (with Julia)
+* [Blocky Talky](https://www.playfulcomputation.group/blockytalky.html)
 
 ## Outline
 
