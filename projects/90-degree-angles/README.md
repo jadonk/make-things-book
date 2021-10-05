@@ -9,6 +9,5 @@ This is a place to brainstorm about a project that involves the ability to creat
 ## Pen plotter project idea
 I keep thinking about a wall-based pen-plotter-type-thing, but it doesn't feel magical enough to me yet.
 
-<svg height="480" width="640">
-  <polygon points="10,10 470,10 320,100" style="fill:green;stroke:blue;stroke-width:1" />
-</svg>
+![Pen plotter idea diagram](./pen_plotter.svg)
+<img src="./pen_plotter.svg">
