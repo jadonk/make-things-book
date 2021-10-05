@@ -9,5 +9,5 @@ This is a place to brainstorm about a project that involves the ability to creat
 ## Pen plotter project idea
 I keep thinking about a wall-based pen-plotter-type-thing, but it doesn't feel magical enough to me yet.
 
-![Pen plotter idea diagram](./pen_plotter.svg)
-<img src="./pen_plotter.svg">
+![Pen plotter idea diagram](./pen-plotter.svg)
+<img src="./pen-plotter.svg">
