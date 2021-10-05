@@ -10,4 +10,3 @@ This is a place to brainstorm about a project that involves the ability to creat
 I keep thinking about a wall-based pen-plotter-type-thing, but it doesn't feel magical enough to me yet.
 
 ![Pen plotter idea diagram](./pen-plotter.svg)
-<img src="https://raw.githubusercontent.com/jadonk/make-things-book/main/projects/90-degree-angles/pen-plotter.svg">
