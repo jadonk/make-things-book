@@ -39,7 +39,7 @@ a step-by-step guide to what concepts to master to control technology in their l
 * Here Comes Everybody
 * The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 * Peer-To-Peer: Harnessing the Power of Disruptive Technologies
-* How To Ask Questions The Smart Way
+* [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 ## Inspiration Tech
 * OLPC
