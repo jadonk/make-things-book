@@ -40,13 +40,13 @@ a step-by-step guide to what concepts to master to control technology in their l
 * The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 * Peer-To-Peer: Harnessing the Power of Disruptive Technologies
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+* [Tools for Thought](https://mitpress.mit.edu/books/tools-thought)
 
 ## Inspiration Tech
 * OLPC
 * Jupyter notebooks (with Julia)
 * [Blocky Talky](https://www.playfulcomputation.group/blockytalky.html)
 * https://www.thewandcompany.com/blog/
-* https://mitpress.mit.edu/books/tools-thought
 
 ## Outline
 
