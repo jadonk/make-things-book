@@ -46,6 +46,7 @@ a step-by-step guide to what concepts to master to control technology in their l
 * Jupyter notebooks (with Julia)
 * [Blocky Talky](https://www.playfulcomputation.group/blockytalky.html)
 * https://www.thewandcompany.com/blog/
+* https://mitpress.mit.edu/books/tools-thought
 
 ## Outline
 
