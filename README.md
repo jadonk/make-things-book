@@ -41,6 +41,7 @@ a step-by-step guide to what concepts to master to control technology in their l
 * Peer-To-Peer: Harnessing the Power of Disruptive Technologies
 * [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 * [Tools for Thought](https://mitpress.mit.edu/books/tools-thought)
+* Solve for Happy
 
 ## Inspiration Tech
 * OLPC
