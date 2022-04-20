@@ -87,4 +87,5 @@ There should be a collection of kits useful for various book sections
 # Random notes
 * Symantic web
 * Leaky abstractions and Blocky Talky
+* Unified operator
 
