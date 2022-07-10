@@ -1,3 +1,6 @@
+Moved to https://git.beagleboard.org/jkridner/make-things-book
+
+
 # How to Make Things: Kid Steps to Controlling Technology
 
 ## Motivation
