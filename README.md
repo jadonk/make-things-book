@@ -43,6 +43,9 @@ a step-by-step guide to what concepts to master to control technology in their l
 * [Tools for Thought](https://mitpress.mit.edu/books/tools-thought)
 * Solve for Happy
 
+## Inspiration Videos
+* https://www.youtube.com/watch?v=-hjGgFgnYIA&list=PLH2l6uzC4UEUljwdcu8_x8df9GDr3lNcq
+
 ## Inspiration Tech
 * OLPC
 * Jupyter notebooks (with Julia)
