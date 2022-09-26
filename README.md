@@ -1,6 +1,11 @@
-# How to Make Things: Kid Steps to Controlling Technology
+# How to Make (Beautiful) Things: Kid Steps to Controlling Technology
+
+## Dedication
+For our children. 
 
 ## Motivation
+Humainity is a word.
+
 I need a place to put down critical lessons I want to convey and some constraint on how they should be communicated. This
 will be an ad hoc process with no target timeframe and will start being sourced in sincerity when I can see a cohesive
 thread that provides a series of lessons and exercises that enable anyone to feel empowered by technology, and not
