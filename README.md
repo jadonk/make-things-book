@@ -1,7 +1,14 @@
-# How to Make (Beautiful) Things: Kid Steps to Controlling Technology
+# Kid Steps to Making the World Better
 
-## Dedication
-For our children. 
+Let's make things beautiful.
+
+By "make", I mean design, create, build, and change.
+
+By "things", I mean technology, media, material possessions, and all the stuff in our
+lives that drive our daily experiences.
+
+By "beautiful", I mean that beauty is indeed in the eye of the beholder and we can best
+make the world beautiful by our own hands.
 
 ## Motivation
 Humainity is a word.
@@ -56,6 +63,7 @@ a step-by-step guide to what concepts to master to control technology in their l
 * Jupyter notebooks (with Julia)
 * [Blocky Talky](https://www.playfulcomputation.group/blockytalky.html)
 * https://www.thewandcompany.com/blog/
+* MicroBlocks.fun
 
 ## Outline
 
@@ -84,8 +92,10 @@ indicate the theme can be used to carry forward a line of thought, interjecting 
 * Friendly character like in the TRS-80 book and on-page note areas with assignments
 
 ## Hardware
+* BeagleBoard.org BeaglePlay
 * BeagleBoard.org BeagleConnect Freedom
 * BeagleBoard.org BeagleBone Blue
+* BeagleBoard.org PocketBeagle 2
 * Wio Terminal
 * Chromebook
 
