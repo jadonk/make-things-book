@@ -7,20 +7,42 @@ Introduction
 The disagreement 
 ================
 
-My 7 year old and I have some disagreement on what a computer is. He tells me a computer doesn’t have a touchscreen—those are for phones and tablets. He’s not too sure about his Nintendo Switch video game console, but he doesn’t think so; it doesn’t have a keyboard and you can use its touchscreen as well—definitely NOT a computer.
+My 8 year old, Bash, and I have some disagreement on what a computer is. He tells me a computer doesn’t
+have a touchscreen—those are for phones and tablets. He’s not too sure about his Nintendo Switch
+video game console, but he doesn’t think so; it doesn’t have a keyboard and you can use its
+touchscreen as well—definitely NOT a computer.
 
-I tell him even my coffee machine is a computer. It is one if those fancy automatic espresso makers—with a touchscreen. I tell him it executes specific instructions, repeating them each time I ask it to make me a coffee, and it was programmed just like the computer on my desk. His face is filled with doubt.
+I tell him even my coffee machine is a computer. It is one if those fancy automatic espresso
+makers—with a touchscreen. I tell him it executes specific instructions, repeating them each
+time I ask it to make me a coffee, and it was programmed just like the computer on my desk. His
+face is filled with doubt.
 
-I ask him, ok, then what is a computer? He doesn’t seem quite as sure as when we started this conversation, but he knows it doesn’t have a touchscreen. It seems I have just confused him, but I’m still really confident I know the right answer—I just can’t seem to put it in the right  words. 
+I ask him, ok, then what is a computer? He doesn’t seem quite as sure as when we started this
+conversation, but he knows it doesn’t have a touchscreen. It seems I have just confused him, but
+I’m still really confident I know the right answer—I just can’t seem to put it in the right words. 
 
 The motivation
 ==============
 
-Why do I care so much he knows what my definition of a computer is anyway? Doesn’t he know computers impact almost every aspect of your daily life? From moving your money and moving your car, to moving your emotions and moving your social status, the world is just short of being moved entirely by computers. Does he realize this?—Sure he does. 
+Why do I care so much he knows what my definition of a computer is anyway? Doesn’t he know
+computers impact almost every aspect of your daily life? From moving your money and moving
+your car, to moving your emotions and moving your social status, the world is just short of
+being moved entirely by computers. Does he realize this?—Sure he does. 
 
-Venting to one of the other baseball dads about how our kids should be taught some basics glossed over by our educational system, the dad agrees a course on common sense should be mandatory—you know, like how to change a tire! Yeah, I say! Configuring a wireless router and installing a spare tire. 
+Venting to one of the other baseball dads about how our kids should be taught some basics
+glossed over by our educational system, the dad agrees a course on common sense should be
+mandatory—you know, like how to change a tire! Yeah, I say! Configuring a wireless router
+and changing a tire.
 
-As while coming to the sudden realization we don’t all have exactly the same idea what qualifies as common sense. 
+It comes to me that we all have our own ideas about what qualifies as common sense. Figuring
+out what is critical to know for people today isn't easy. Sitting in traffic, I imagine a
+driver sitting on the side of the road, picking up their mobile phone and calling AAA, just
+like my mother-in-law calls me when her printer isn't "showing up". Does she really need to
+know how to reset her router to overcome an flooded DHCP table? I'm not sure, but at least
+she knows what a tire is, why it might not be holding air and what it means for someone to
+swap it out with a tire that will hold air. Perhaps being able to change the tire isn't the
+goal, but I'd feel better about anyone driving a car if they knew what a tire was and why
+it is important to the operation of that car.
 
 AI. Bad code. boot times. 
 
@@ -37,6 +59,14 @@ Its all sensors and actuators. We used to call these inputs and outputs.
 
 What is and is not a computer?
 ******************************
+
+.. admonishion:: Bash's Definition
+
+   *What is a computer?*
+
+   A computer is a machine that can be programmed to translate words into 0s and can
+   be made into different things, like a robot or a self-reading book. Anything can
+   have a computer.
 
 * Human computers
 * Mechanical computers
@@ -58,8 +88,28 @@ There is no cloud, the network is not the computer
 
 What makes a computer smart?
 
+A computer is a machine
+=======================
+
+.. admonishion:: Bash's Definition
+
+   *What is a machine?*
+
+   A machine is a system that uses different power [sources], like coal, fire,
+   contraptions, and chain reactions.
+
+I feel like I should have started by asking about the definition of "work". 
+From the viewpoint of a physicist, 
+
 What is not a computer?
 =======================
+
+.. admonition:: Bash's Definition
+
+   *Are there machines without computers?*
+
+   Yes, there are machines without computers and they are called simple machines, for
+   example, brooms, levers, wedges, wheels and axles, pulleys, and screws.
 
 If a computer can be so many things, maybe we should start by describing what is not a computer.
 
@@ -104,10 +154,24 @@ made previous mistakes and get extra snarky.
 
    Lot's left to elaborate here.
 
+Why are computers important?
+****************************
+
+Why should computers be important to you?
+*****************************************
+
 Changing a computer's tire
 **************************
 
 How to configure and reset a router and modem
 
 * DHCP
-* Wireshark
+
+.. admonishion:: History
+
+  * 
+
+.. admonishion:: Exercises
+
+  * Wireshark
+
