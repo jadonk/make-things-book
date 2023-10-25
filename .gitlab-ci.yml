@@ -4,7 +4,7 @@ pages:
   tags:
   - docker-arm64
   script:
-  - sphinx-build -M html . public
+  - sphinx-build . public
   artifacts:
     paths:
     - public
