@@ -1,5 +1,8 @@
-Kid Steps to Making the World Better
+Kid Steps to Making Things Beautiful
 ====================================
+
+Mission
+*******
 
 Let’s make things beautiful.
 
@@ -144,13 +147,12 @@ Hardware
 -  Wio Terminal
 -  Chromebook
 
-Kits
-~~~~
+.. note::
 
-There should be a collection of kits useful for various book sections
+   There should be a collection of kits useful for various book sections
 
 Random notes
-============
+************
 
 -  Symantic web
 -  Leaky abstractions and Blocky Talky

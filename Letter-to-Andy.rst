@@ -22,7 +22,7 @@ e-mail I wrote to Andy and sent to editors at O’Reilly. I never even got
 Andy’s e-mail address, to it is unlikely he ever saw it.
 
 Letter to Andy Orem
-===================
+*******************
 
 Subject: Maker 2.0 (in the style of P2P: Harnessing the power of
 disruptive technologies)
@@ -58,9 +58,20 @@ Anyway, let me know if you have enough interest for me to expand on this
 idea. Working with someone like yourself seems critical to realize such
 a book.
 
-Some potential topics for essays: \* Linux \* RISC-V and OpenHW \*
-Personal manufacturing \* Makerspaces \* Personal medical and biotech \*
-P2P file sharing \* Mastodon \* Freedombox \* AI \* Raspberry Pi \* Open
-Harware
+Some potential topics for essays: 
 
-Regards, Jason
+* Linux
+* RISC-V and OpenHW
+* Personal manufacturing
+* Makerspaces
+* Personal medical and biotech
+* P2P file sharing
+* Mastodon
+* Freedombox
+* AI
+* Raspberry Pi
+* Open Harware
+
+Regards,
+
+Jason

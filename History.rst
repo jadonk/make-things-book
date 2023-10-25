@@ -7,6 +7,9 @@ revolutions occured, other distinct revolutions also occured and had
 complex impacts on overlapping thoughts. These revolutions represent
 genies that never fully went back in the bottle.
 
+Problems generate solutions
+***************************
+
 -  *Problem*: Very large and very small numbers (fractions) with limited
    symbols. *Solution*: Base 60 with only 2 root symbols.
 -  *Problem*: Right angles needed for safer, easier construction.
@@ -17,14 +20,14 @@ genies that never fully went back in the bottle.
 -  *Problem*: Moons orbiting Jupiter. *Solution*: Heliocentrism.
 
 Other ones I think are important
-================================
+--------------------------------
 
 -  Newton’s laws
 -  Maxwell’s equations
 -  Kirchoff’s current laws
 
 Individual figures in history
-=============================
+*****************************
 
 I would like to somewhat separate figures from revolutions in thought.
 I’d like to introduce people as an inspiration, but also down-play their
@@ -50,3 +53,4 @@ Some key figures and relationships
 -  Ada Lovelace
 -  Tesla
 -  Daphne Oram
+-  Jesus

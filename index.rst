@@ -3,6 +3,9 @@
 
 .. _make-things-book:
 
+Index
+=====
+
 .. toctree::
 
    README
