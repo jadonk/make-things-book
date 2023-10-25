@@ -1,11 +1,19 @@
+.. _schools-of-thought:
+
 Definitions of various schools of thought
 =========================================
+
+.. _thought-mathematics:
 
 Mathematics
 -----------
 
+.. _thought-science:
+
 Science
 -------
+
+.. _definition-science:
 
 Definition
 ~~~~~~~~~~
@@ -14,16 +22,20 @@ Fundamentally defined by the scientific method of observation,
 hypothesis, experimentation and communication, science seeks to better
 understand causality.
 
+.. _lessons-science:
+
 Lessons
 ~~~~~~~
 
--  If it is not possible to device an experiment in an attempt to prove
-   a theory is wrong, then it cannot be proven right.
+-  If it is not possible to devise an experiment in an attempt to prove
+   a theory is wrong, then it isn't a good scientific theory.
+
+.. _thought-engineering:
 
 Engineering
 -----------
 
-.. _definition-1:
+.. _definition-engineering:
 
 Definition
 ~~~~~~~~~~
@@ -32,7 +44,7 @@ Apply science and mathematics to create things that help solve human
 problems, retaining knowledge from previous applications that can be
 applied in future attempts to create more things.
 
-.. _lessons-1:
+.. _lessons-engineering:
 
 Lessons
 ~~~~~~~
@@ -43,8 +55,12 @@ Lessons
    disciplines where there are repeatable processes that can be
    improved.
 
+.. _thought-philosophy:
+
 Philosophy
 ----------
+
+.. _thought-political-economics:
 
 Political economics
 -------------------

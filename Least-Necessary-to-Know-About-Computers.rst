@@ -60,7 +60,7 @@ Its all sensors and actuators. We used to call these inputs and outputs.
 What is and is not a computer?
 ******************************
 
-.. admonishion:: Bash's Definition
+.. admonition:: Bash's Definition
 
    *What is a computer?*
 
@@ -91,7 +91,7 @@ What makes a computer smart?
 A computer is a machine
 =======================
 
-.. admonishion:: Bash's Definition
+.. admonition:: Bash's Definition
 
    *What is a machine?*
 
@@ -167,11 +167,11 @@ How to configure and reset a router and modem
 
 * DHCP
 
-.. admonishion:: History
+.. admonition:: History
 
   * 
 
-.. admonishion:: Exercises
+.. admonition:: Exercises
 
   * Wireshark
 
