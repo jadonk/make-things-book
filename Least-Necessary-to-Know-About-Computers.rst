@@ -19,12 +19,12 @@ face is filled with doubt.
 
 I ask him, ok, then what is a computer? He doesn’t seem quite as sure as when we started this
 conversation, but he knows it doesn’t have a touchscreen. It seems I have just confused him, but
-I’m still really confident I know the right answer—I just can’t seem to put it in the right words. 
+I’m still really confident I know the right answer—I just need some time to put it in the right words.
 
 The motivation
 ==============
 
-Why do I care so much he knows what my definition of a computer is anyway? Doesn’t he know
+Why do I care so much he knows what my definition of a computer is anyway? Doesn’t he already know
 computers impact almost every aspect of your daily life? From moving your money and moving
 your car, to moving your emotions and moving your social status, the world is just short of
 being moved entirely by computers. Does he realize this?—Sure he does. 
