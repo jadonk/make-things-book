@@ -34,9 +34,11 @@ I’d like to introduce people as an inspiration, but also down-play their
 individual roles to some extent based on how views of history often
 miscredit individuals and ignore simultaneous developments in other
 parts of the world. The key take-aways from the people-in-history
-segments should include: \* A single individual can introduce a powerful
-thought. \* You could be that individual. \* Incremental thoughts slowly
-introduce challenges that result in break-throughs.
+segments should include:
+
+* A single individual can introduce a powerful thought.
+* You could be that individual.
+* Incremental thoughts slowly introduce challenges that result in break-throughs.
 
 I think, perhaps, including some critical relationships, either
 contemporary or inspiration, could be instructive. I need to be careful
