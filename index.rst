@@ -6,6 +6,8 @@
 Index
 =====
 
+See https://git.beagleboard.org/jkridner/make-things-book for the source.
+
 .. toctree::
 
    README
