@@ -1,0 +1,10 @@
+image: beagle/sphinx-build-env:latest
+
+pages:
+  tags:
+  - docker-arm64
+  script:
+  - sphinx-build -M html . public
+  artifacts:
+    paths:
+    - public
