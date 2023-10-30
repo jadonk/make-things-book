@@ -30,6 +30,11 @@ Lessons
 -  If it is not possible to devise an experiment in an attempt to prove
    a theory is wrong, then it isn't a good scientific theory.
 
+.. _thought-physics:
+
+Physics
+-------
+
 .. _thought-engineering:
 
 Engineering
