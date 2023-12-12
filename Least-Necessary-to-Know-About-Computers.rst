@@ -64,7 +64,7 @@ What is and is not a computer?
 
    *What is a computer?*
 
-   A computer is a machine that can be programmed to translate words into 0s and can
+   A computer is a machine that can be programmed to translate words into 0s and 1s and can
    be made into different things, like a robot or a self-reading book. Anything can
    have a computer.
 
