@@ -88,8 +88,8 @@ pygments_style = None
 # html_theme = 'alabaster'
 # html_theme = 'furo'
 
-#html_theme = 'sphinx_rtd_theme'
-html_theme = 'sphinx_typo3_theme'
+html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_typo3_theme'
 #html_logo = ""
 #html_css_files = []
 # html_theme = 'bootstrap'
