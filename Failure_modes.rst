@@ -1,3 +1,11 @@
+Why does technology fail?
+=========================
+
+An introduction to Maker Ethics
+
+When is it right to limit the access to some resource for one person and grant it to another?
+
+
 Failure modes
 =============
 
