@@ -83,4 +83,4 @@ Here's my list of questions that should be answered within any question to exper
 
 ### Footnotes on Pedagogical Approach
 
-[^16] Eric S. Raymond, ["How To Ask Questions The Smart Way,"](https://linuxsilo.net/docs/smart-questions_en.html), circa 2001.
+[^16] Eric S. Raymond, ["How To Ask Questions The Smart Way,"](https://linuxsilo.net/docs/smart-questions_en.html) circa 2001.
