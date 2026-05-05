@@ -39,6 +39,28 @@ Certain pressures on technological systems are sure to exist
 
 ## Sources
 
-* https://sidneydekker.com/drift-into-failure
-* https://en.wikipedia.org/wiki/Normal_Accidents
 
+
+### Footnotes on Physical and Complex System Failures
+
+[^15]: Sidney Dekker, ["Drift into Failure: From Huting Broken Components to Understanding Complex Systems,"](https://sidneydekker.com/drift-into-failure) Routledge, 2011.
+[^1]: Richard I. Cook, MD, ["How Complex Systems Fail,"](https://how.complexsystems.fail/) Cognitive Technologies Laboratory, University of Chicago, 1998. 
+[^2]: Tom Geraghty, ["Normal Accidents,"](https://psychsafety.com/normal-accidents/) Psych Safety, August 24, 2023. This article outlines Charles Perrow's theory of tightly coupled systems and Sidney Dekker's concept of the "drift into failure".
+[^3]: Stephen Ressler, ["Epic Engineering Failures and the Lessons They Teach,"](https://tv.apple.com/us/show/epic-engineering-failures-and-the-lessons-they-teach/umc.cmc.6jnc350uxblmh74p27r0k4s0t) The Great Courses. This course covers organizational and structural failures including the Hyatt Regency walkway collapse and Hurricane Katrina.
+[^4]: Joseph Herkert, Jason Borenstein, and Keith Miller, ["The Boeing 737 MAX: Lessons for Engineering Ethics,"](https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/) *Science and Engineering Ethics*, July 10, 2020.
+[^5]: John Wilkinson, ["The Challenger Space Shuttle disaster,"](https://www.icheme.org/media/2081/lpb251_pg26.pdf) *Loss Prevention Bulletin*, Institution of Chemical Engineers (IChemE).
+[^6]: Lauren Averill, Brady Durkin, Michael Chu, Usaamah Ougradar, and Alexander Reeves, ["Deepwater Horizon disaster,"](https://www.icheme.org/media/14086/macondo-deepwater-horizon-incident-summary-20-apr-10.pdf) *Loss Prevention Bulletin*, Institution of Chemical Engineers (IChemE), June 2022.
+[^7]: ["Hyatt Regency walkway collapse,"](https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse) Wikipedia.
+
+### Footnotes on Digital Platform Decay
+
+[^8]: Cory Doctorow, ["Tiktok's enshittification,"](https://pluralistic.net/2023/01/21/potemkin-ai/) *Pluralistic*, January 21, 2023. Doctorow originally coined the term to describe how two-sided platforms allocate value to lock in users and vendors before extracting that value for shareholders.
+[^9]: Forbrukerrådet (The Norwegian Consumer Council), ["BREAKING FREE – Pathways to a fair technological future,"](https://www.forbrukerradet.no/breakingfree) February 2026. This report details digital lock-in mechanisms like DRM, switching costs, and the need for interoperability.
+[^10]: Pavlina R. Tcherneva, ["The Death of the Social Contract and the Enshittification of Jobs,"](https://www.levyinstitute.org/publications/the-death-of-the-social-contract-and-the-enshittification-of-jobs/) Levy Economics Institute, November 2025. This paper applies the concept of platform decay to labor markets and algorithmic wage discrimination.
+[^11]: Paul Krugman, ["The General Theory of Enshittification,"](https://paulkrugman.substack.com/p/the-general-theory-of-enshittification) *Substack*, 2024. Explores the economics of platform decay in businesses characterized by network effects.
+[^12]: Edward A. Lenzo and Michael J. Ardoline, ["The cognitive and moral harms of platform decay,"](https://doi.org/10.1007/s10676-025-09846-1) *Ethics and Information Technology*, 2025 (as cited in "As Platforms Decay, So Do We," *Muhlenberg Magazine*). Discusses cognitive deskilling and the loss of transactive memory.
+
+### Footnotes on Infrastructure Fragility 
+
+[^13]: Gang Xu, Tong Guo, and Ai-Qun Li, ["Rethinking structural safety for a volatile century,"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12869742/) *Fundamental Research*, July 30, 2025. Argues for designing resilient infrastructure to withstand compounding climate hazards rather than isolated events.
+[^14]: ["What Really Happened During the 2003 Blackout?,"](https://practical.engineering/blog/2022/2/9/what-really-happened-during-the-2003-blackout) *Practical Engineering*, YouTube. Details the cascading failure of the tightly coupled electrical grid across North America.
