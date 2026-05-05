@@ -1,6 +1,6 @@
 # Why Does Technology Fail?
 
-An introduction to Maker ethics
+Subtitle: An introduction to Maker ethics
 
 ## A Diagnosis of Failure
 
