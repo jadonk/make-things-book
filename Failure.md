@@ -6,7 +6,7 @@ Subtitle: An Introduction to Maker Ethics
 
 I'd like to walk you through a somewhat established diagnosis of technological failure, but bridge you into more of an open discussion with an ethical frameing. While we can diagnose typical sources of failure, we can easily keep this diagnosis in purely scientific terms and fail to identify axiomatic assumptions. Diving deeper into why we care about technology, and what it should be doing, and for whom, provides a backdrop for a more meaningful classroom discussion into questions that can only reasonably be answered by each student themselves.
 
-I would encourage long discussion before rounding back to some suggestions I have for potential exercises that might help avoid technological failure.
+I would encourage long discussion before rounding back to some suggestions I have for potential exercises that might help avoid technological failure. These are opinionated exercises against these identified causes from my perspective, but they should only be seen as illustrative. Finally, I will close with some additional ideas about empowering students to further guide this on-going collaboration between student, instructor and engaged topic-matter experts.
 
 ## A Diagnosis of Failure
 
@@ -31,15 +31,31 @@ Certain pressures on technological systems are sure to exist
 
 ## The Ethics of Failure
 
-## Exercises
+For what purpose?
+
+## Exercises Against Coupling and Drift
 
 ### Adversarial Interoperability
 
-### 
+### Constructing Visibility and Validity
+
+### Exercising Independence and Assistance
+
+## Pedagogical Approaches to Ethical Making
+
+### Engaging Experts
+
+Students are likely to engage communities of experts and non-experts alike, often without enough background to identify the best place to ask their questions or the difference between a good answer and a bad one. Without experience engaging busy experts, they might also not pose the question[^16] in a way that is most likely to generate a useful response.
+
+Here's my list of questions that should be answered within any question to experts:
+
+1) What are you trying to acomplish?
+2) What research did you do to identify an approach?
+3) What did you actually try?
+4) What was the result and why did it surprise you?
+5) What would you consider success?
 
 ## Sources
-
-
 
 ### Footnotes on Physical and Complex System Failures
 
@@ -64,3 +80,7 @@ Certain pressures on technological systems are sure to exist
 
 [^13]: Gang Xu, Tong Guo, and Ai-Qun Li, ["Rethinking structural safety for a volatile century,"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12869742/) *Fundamental Research*, July 30, 2025. Argues for designing resilient infrastructure to withstand compounding climate hazards rather than isolated events.
 [^14]: ["What Really Happened During the 2003 Blackout?,"](https://practical.engineering/blog/2022/2/9/what-really-happened-during-the-2003-blackout) *Practical Engineering*, YouTube. Details the cascading failure of the tightly coupled electrical grid across North America.
+
+### Footnotes on Pedagogical Approach
+
+[^16] Eric S. Raymond, ["How To Ask Questions The Smart Way,"](https://linuxsilo.net/docs/smart-questions_en.html), circa 2001.
