@@ -25,6 +25,7 @@ These same causes can be observed in failures with somewhat less obviously harmf
 
 Certain pressures on technological systems are sure to exist
 
+Rent seeking
 
 ### 
 
@@ -32,6 +33,8 @@ Certain pressures on technological systems are sure to exist
 ## The Ethics of Failure
 
 For what purpose?
+
+When is it right for one person to yield control over something to another?
 
 ## Exercises Against Coupling and Drift
 
